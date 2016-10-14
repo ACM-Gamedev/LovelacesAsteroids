@@ -1,2 +1,2 @@
-# LovelacesAsteroids
-Team lovelace asteroid modification
+# HomingAsteroids
+Tutorial game for ACM game dev
